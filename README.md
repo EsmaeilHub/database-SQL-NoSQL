@@ -1,4 +1,6 @@
-![Alt text](https://raw.githubusercontent.com/ishmaelrezaei/database/main/Pharmacy%20Database/FIGs/GUI-Pharmacy.JPG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishmaelrezaei/database/main/Pharmacy%20Database/FIGs/GUI-Pharmacy.JPG" alt="GUI-Pharmacy">
+</p>
 
 # Introduction
 
