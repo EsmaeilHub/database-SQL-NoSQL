@@ -1,0 +1,26 @@
+[
+    {
+        "SupplierID": 601,
+        "SupplierName": "Supplier X",
+        "City": "New York",
+        "Location": "Downtown",
+        "State": "NY",
+        "QuotedPrice": 15.25
+    },
+    {
+        "SupplierID": 602,
+        "SupplierName": "Supplier Y",
+        "City": "Los Angeles",
+        "Location": "Midtown",
+        "State": "CA",
+        "QuotedPrice": 18.50
+    },
+    {
+        "SupplierID": 603,
+        "SupplierName": "Supplier Z",
+        "City": "Chicago",
+        "Location": "Uptown",
+        "State": "IL",
+        "QuotedPrice": 12.75
+    }
+]

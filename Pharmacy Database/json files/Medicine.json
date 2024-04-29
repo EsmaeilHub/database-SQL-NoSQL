@@ -1,0 +1,26 @@
+[
+    {
+        "DrugID": 101,
+        "MfgDate": "2022-01-01",
+        "Quantity": 100,
+        "Price": 10.50,
+        "Manufacturer": "Manufacturer A",
+        "ExpDate": "2023-01-01"
+    },
+    {
+        "DrugID": 102,
+        "MfgDate": "2021-12-15",
+        "Quantity": 50,
+        "Price": 20.75,
+        "Manufacturer": "Manufacturer B",
+        "ExpDate": "2023-06-15"
+    },
+    {
+        "DrugID": 103,
+        "MfgDate": "2022-02-28",
+        "Quantity": 200,
+        "Price": 5.25,
+        "Manufacturer": "Manufacturer C",
+        "ExpDate": "2022-12-31"
+    }
+]

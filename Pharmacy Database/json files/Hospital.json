@@ -1,0 +1,26 @@
+[
+    {
+        "HospitalID": 501,
+        "HosName": "City Hospital",
+        "Location": "Downtown",
+        "State": "NY",
+        "PinCode": "12345",
+        "City": "New York"
+    },
+    {
+        "HospitalID": 502,
+        "HosName": "General Hospital",
+        "Location": "Midtown",
+        "State": "CA",
+        "PinCode": "54321",
+        "City": "Los Angeles"
+    },
+    {
+        "HospitalID": 503,
+        "HosName": "Community Clinic",
+        "Location": "Uptown",
+        "State": "IL",
+        "PinCode": "67890",
+        "City": "Chicago"
+    }
+]

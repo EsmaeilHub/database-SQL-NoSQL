@@ -1,0 +1,26 @@
+[
+    {
+        "BillID": 301,
+        "Amt": 150.25,
+        "Quantity": 3,
+        "DrugID": 101,
+        "DocID": 201,
+        "PID": 1
+    },
+    {
+        "BillID": 302,
+        "Amt": 75.50,
+        "Quantity": 2,
+        "DrugID": 102,
+        "DocID": 202,
+        "PID": 2
+    },
+    {
+        "BillID": 303,
+        "Amt": 35.75,
+        "Quantity": 1,
+        "DrugID": 103,
+        "DocID": 203,
+        "PID": 3
+    }
+]

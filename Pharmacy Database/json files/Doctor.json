@@ -1,0 +1,26 @@
+[
+    {
+        "DocID": 201,
+        "DocName": "Dr. Smith",
+        "Hospital": "City Hospital",
+        "Contact": "1112223333",
+        "Address1": "789 Pine St",
+        "Address2": null
+    },
+    {
+        "DocID": 202,
+        "DocName": "Dr. Johnson",
+        "Hospital": "General Hospital",
+        "Contact": "4445556666",
+        "Address1": "456 Maple St",
+        "Address2": "Suite 100"
+    },
+    {
+        "DocID": 203,
+        "DocName": "Dr. Brown",
+        "Hospital": "Community Clinic",
+        "Contact": "7778889999",
+        "Address1": "123 Cedar St",
+        "Address2": null
+    }
+]

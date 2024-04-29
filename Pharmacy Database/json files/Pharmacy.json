@@ -1,0 +1,32 @@
+[
+    {
+        "StoreID": 401,
+        "StoreName": "ABC Pharmacy",
+        "PinCode": "12345",
+        "City": "New York",
+        "State": "NY",
+        "Location": "Downtown",
+        "Address1": "100 Main St",
+        "Address2": null
+    },
+    {
+        "StoreID": 402,
+        "StoreName": "XYZ Pharmacy",
+        "PinCode": "54321",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Location": "Midtown",
+        "Address1": "200 Elm St",
+        "Address2": "Suite 101"
+    },
+    {
+        "StoreID": 403,
+        "StoreName": "PQR Pharmacy",
+        "PinCode": "67890",
+        "City": "Chicago",
+        "State": "IL",
+        "Location": "Uptown",
+        "Address1": "300 Oak St",
+        "Address2": null
+    }
+]

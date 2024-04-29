@@ -1,0 +1,26 @@
+[
+    {
+        "EID": 701,
+        "EmpName": "Employee A",
+        "Salary": 50000.00,
+        "EAddress": "employeea@example.com",
+        "Sex": "M",
+        "NID": "123-45-6789"
+    },
+    {
+        "EID": 702,
+        "EmpName": "Employee B",
+        "Salary": 60000.00,
+        "EAddress": "employeeb@example.com",
+        "Sex": "F",
+        "NID": "987-65-4321"
+    },
+    {
+        "EID": 703,
+        "EmpName": "Employee C",
+        "Salary": 55000.00,
+        "EAddress": "employeec@example.com",
+        "Sex": "M",
+        "NID": "555-12-3456"
+    }
+]
