@@ -1,4 +1,4 @@
-![Alt text](Pharmacy Database/FIGs/GUI-Pharmacy.JPG)
+![Alt text]("Pharmacy Database/FIGs/GUI-Pharmacy.JPG")
 
 # Introduction
 
