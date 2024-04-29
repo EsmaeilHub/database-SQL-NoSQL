@@ -1,4 +1,4 @@
-![Alt text](path/to/image.jpg)
+![Alt text](FIGs/GUI-Pharmacy.JPG)
 
 # Introduction
 
