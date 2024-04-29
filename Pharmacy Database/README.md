@@ -1,42 +1,15 @@
-# Machine Learning Reservoir
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishmaelrezaei/database/main/Pharmacy%20Database/FIGs/GUI-Pharmacy.JPG" alt="GUI-Pharmacy">
+</p>
 
-Welcome to the Machine Learning Reservoir! 🌊
+# Introduction
 
-This repository serves as a collection of machine learning projects and resources in Python.
+In the realm of pharmaceutical management, efficient data organization and retrieval are paramount. To address this need, I embarked on a project to design and implement a comprehensive Pharmacy Database system. The project commenced with the creation of an Entity-Relationship (ER) diagram and a relational schema using Erwin, a powerful tool for visualizing database structures.
 
-## Scikit-Learn Projects
+## Database Implementation
 
-Here's a brief overview of the Scikit-Learn projects included in this reservoir:
+For the backend data storage, I opted for two approaches separately, leveraging both MySQL for relational data storage and MongoDB for NoSQL data management. This strategic decision allowed for the best of both worlds: the robustness of relational databases combined with the flexibility of NoSQL databases.
 
-1. **Project Name**: Credit Card Fraud Detection using Logistic Regression
-   - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/Credit%20Card%20Fraud%20Detection)
+## Graphical User Interface (GUI) Development
 
-2. **Project Name**: March Madness 2024 - Basketball Winners Prediction using Logistic Regression
-   - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/March%20Madness%202024-Basketball%20Winners%20Prediction)
-
-3. **Project Name**: Birds Audio Classification using XGBoost
-   - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/XGBoost%20for%20Audio%20Classification)
-
-Feel free to explore each project to learn more about its goals, implementation, and usage.
-
-## Pyspark Projects
-
-Here are some Pyspark projects and resources:
-
-1. **Project Name**: Pyspark Project for March Madness with 514,193,368 Observations
-   - [Link to Project](https://github.com/ishmaelrezaei/Pyspark/tree/main/Pyspark%20project%20for%20March%20Madness%20514%2C193%2C368%20Observations)
-
-2. **Project Name**: Some Pyspark Notes
-   - [Link to Project](https://github.com/ishmaelrezaei/Pyspark/tree/main/Some%20Pyspark%20Notes)
-
-Feel free to explore each project to learn more about its content and usage.
-
-## Support
-
-If you have any questions, suggestions, or need assistance, feel free to open an issue or reach out to me via email.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources provided here for your projects.
-
-Happy coding and learning! 🚀
+To facilitate seamless interaction with the database, I developed a user-friendly Graphical User Interface (GUI). The GUI was meticulously crafted to streamline CRUD (Create, Read, Update, Delete) operations, thereby enhancing usability and functionality. Users can effortlessly navigate through the database, perform operations with ease, and retrieve information efficiently.
