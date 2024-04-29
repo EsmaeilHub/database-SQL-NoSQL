@@ -1,4 +1,4 @@
-![Alt text]("Pharmacy Database/FIGs/GUI-Pharmacy.JPG")
+![Alt text](https://raw.githubusercontent.com/ishmaelrezaei/database/main/Pharmacy%20Database/FIGs/GUI-Pharmacy.JPG)
 
 # Introduction
 
